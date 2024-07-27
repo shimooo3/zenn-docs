@@ -42,7 +42,7 @@ Google Colaboratoryに戻り"Upload token file"を実行し，先ほどダウン
 ### データ分析
 以降はコードベースの説明が多くなるので以下githubのGoogle Colaboratryで解説します．以下リンク先のOpen in Colaboratoryを開いてファイル->コピーを保存してから実行していってください．
 
-[データ分析してみよう!!](https://github.com/shimooo3/b3summer/blob/main/minelab_2024_summer.ipynb)
+[データ分析してみよう!!](https://github.com/shimooo3/sentann/blob/main/minelab_2024_summer.ipynb)
 
 簡単な分析のみの紹介です．より深い分析のためにはキーワードに挙げたものを意識してみるとよいでしょう．
 参考までに上のコードで分析を行った際のランキングを以下に示しておきます．
