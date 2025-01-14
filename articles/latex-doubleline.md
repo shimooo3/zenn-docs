@@ -8,12 +8,13 @@ published: true
 # chapter見出しを二重線で装飾しよう
 結論としてはoutput.pdfに出力されるものは期待通り，ソースは不格好というものになりました．
 ## 出力結果とソース
-実際の出力結果が以下の通りになります．
+実際の出力結果が以下の通りになります．`.tex`に直書きしました．
 
 ![](https://storage.googleapis.com/zenn-user-upload/629df37d70bc-20250114.png)
 
 #### ソース（インデントぐちゃぐちゃですいません）
 ```latex
+\usepackage{titlesec}
 \titleformat{\chapter}[display] 
   {\normalfont\huge\bfseries} 
   {\titlerule[1pt]\vspace{1pt}\titlerule[0.5pt]\vspace{4ex} 第\thechapter{}章 序論}
