@@ -66,3 +66,9 @@ https://qiita.com/haradakaito/items/26ae779db23a1c862158
 ### おわりに
 LaTexの装飾はとても難しいです．今回は見える部分のみ頑張りました．修論を書くころにはソースを洗練させたいです．
 これを読んでいる論文執筆者さん，私と一緒に頑張っていきましょう!!!
+
+### 参考文献
+
+https://tobetakoyaki.hatenablog.com/entry/2021/04/10/221137
+
+https://qiita.com/haradakaito/items/26ae779db23a1c862158
