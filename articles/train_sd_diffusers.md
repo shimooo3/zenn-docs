@@ -2,7 +2,7 @@
 title: "Stable Diffusionをローカルデータで訓練する際の備忘録"
 emoji: "🐮"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["StableDiffusion"]
+topics: ["StableDiffusion", "diffusers"]
 published: true
 ---
 # Stable Diffusionをローカルデータで訓練する際の備忘録
