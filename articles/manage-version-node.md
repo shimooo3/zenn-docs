@@ -2,7 +2,7 @@
 title: "【備忘録】nodejs，npmのバージョンをあげる"
 emoji: "🐮"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: ["linux", "nodejs", "npm"]
 published: false
 ---
 
