@@ -63,3 +63,9 @@ https://github.com/huggingface/diffusers/issues/6821
 
 https://github.com/huggingface/diffusers/discussions/6671
 
+## accelerate config
+シングルGPUの場合，config.ymlにおいて
+```
+distributed_type: 'NO' 
+```
+小文字のnoはダメ
