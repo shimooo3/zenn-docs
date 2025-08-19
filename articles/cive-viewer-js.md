@@ -30,6 +30,7 @@ RGB値を用いて画像内の緑色の領域を抽出する指標として`ExG`
 https://github.com/shimooo3/CIVE_viewer
 
 ターミナルで以下を実行することで，ローカル環境で確認できます．
+簡易的な確認であればindex.htmlをブラウザで開くだけでも大丈夫です．
 ```
 $ python3 -m http.server 8000
 ```
